@@ -94,8 +94,9 @@ a:hover{
     text-decoration: underline;
 }
 
-.page{
+.Page{
     height: 880px;
+    display: block;
     position: relative;
 }
 
